@@ -1,5 +1,3 @@
-
-![Dashboard](https://user-images.githubusercontent.com/56518821/111860825-89df3e80-8920-11eb-8eac-bb0b6936e3a5.png)
 # TTCBusStreetcarDelayVisualization
 
 I've aggregated publicly available bus and streetcar delay data between 2014 to 2019 (via open data Toronto) and created an interactive dashboard which demonstrates key metrics such as the type of delay, length of a delay, etc.
