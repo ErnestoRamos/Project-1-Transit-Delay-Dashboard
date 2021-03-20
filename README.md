@@ -5,8 +5,12 @@
 - Used tableau to create an interactive dashboard which can be viewed in more detail here: https://public.tableau.com/profile/eramos4256#!/vizhome/TTCBusDelayEDA/Dashboard1  
 
 # Code and Resources Used
-Python Version: 3.8
-Packages: pandas, googlemaps, geopy
+- Python Version: 3.8
+- Packages: pandas, googlemaps, geopy
+
+# Date Cleaning 
+- parsed year, month, and day from report date and converted to datetime format
+- cleaned provided location for address consistency to be used as input for geopy and google maps api
 
 ![Dashboard 1](https://user-images.githubusercontent.com/56518821/111861291-6b2e7700-8923-11eb-9729-2ab3fbdbac8d.png)
 
