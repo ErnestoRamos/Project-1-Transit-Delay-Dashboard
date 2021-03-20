@@ -9,6 +9,7 @@
 - Packages: pandas, googlemaps, geopy
 
 # Date Cleaning 
+- merged 2014 - 2019 files for bus and streetcar 
 - parsed year, month, and day from report date and converted to datetime format
 - cleaned provided location for address consistency to be used as input for geopy and google maps api
 
