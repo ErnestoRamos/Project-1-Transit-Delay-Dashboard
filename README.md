@@ -8,7 +8,7 @@
 
 # Code and Resources Used
 - Python Version: 3.8
-- Packages: pandas, googlemaps, geopy
+- Packages: globe, datetime, pandas, googlemaps, geopy
 
 # Date Cleaning 
 - merged 2014 - 2019 files for bus and streetcar 
